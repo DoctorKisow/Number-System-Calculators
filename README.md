@@ -1,5 +1,5 @@
-# Binary-Calculators
-**Binary Calculators** Various calculators for teaching the binary and hexadecimal number systems.
+# Number-System-Calculators
+**Number-System-Calculators** Various calculators for teaching the binary and hexadecimal number systems.
 Matthew R. Kisow, D.Sc. <mkisow@ccac.edu>  
 Copyright &copy; Matthew R. Kisow, D.Sc. 2021-2022.
 
