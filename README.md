@@ -3,9 +3,9 @@
 Matthew R. Kisow, D.Sc. <mkisow@ccac.edu>  
 Copyright &copy; Matthew R. Kisow, D.Sc. 2021-2022.
 
-**Decimal to Hexadecimal and Binary Tables** - A table that illustrates decimal to binary and decimal to the hexadecimal table. 
-**Binary Calculator** - A tool to teach the binary number system and the relationship to ASCII.
-**Binary to Hexadecimal Calculator** - A tool to teach the hexadecimal number system and the relationship to binary and ASCII.
+**Decimal to Hexadecimal and Binary Tables** - A table that illustrates decimal to binary and decimal to the hexadecimal table.<br> 
+**Binary Calculator** - A tool to teach the binary number system and the relationship to ASCII.<br>
+**Binary to Hexadecimal Calculator** - A tool to teach the hexadecimal number system and the relationship to binary and ASCII.<br>
 
 
 ## Copyright
